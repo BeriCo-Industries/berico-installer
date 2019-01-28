@@ -1,1 +1,1 @@
-# Universal BeriCo Launcher
+# Universal BeriCo Installer
